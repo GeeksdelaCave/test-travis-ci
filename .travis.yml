@@ -1,6 +1,6 @@
 language: java
 
+sript: mvn test
+
 jdk:
   - oraclejdk8
-
-mvn test
