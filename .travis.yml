@@ -1,6 +1,6 @@
 language: java
 
-sript: mvn test
+sript: mvn clean verify
 
 jdk:
   - oraclejdk8
